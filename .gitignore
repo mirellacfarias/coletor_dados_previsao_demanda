@@ -1,0 +1,42 @@
+# Dados e arquivos de teste
+Data/
+Tests/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Ambientes virtuais
+venv/
+env/
+ENV/
+.venv
+
+# Arquivos Excel temporários
+~$*.xlsx
+~$*.xls
+
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+
+# IDEs
+.vscode/
+.idea/
+*.code-workspace
+
+# Variáveis de ambiente e configurações locais
+.env
+.env.local
+config.local.json
+credentials.json
